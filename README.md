@@ -1,7 +1,7 @@
 ## Olá! Bem vindo a minha página do github.
 ### Meu nome é Igor Henrique e meu nickname é IgorCineraria 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorCineraria&color=purple" alt="profile views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorCineraria&color=red" alt="profile views"/> </p>
 
 - Atualmente estou estudando programação em python
 
