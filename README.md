@@ -11,6 +11,9 @@
 
 
 <br><br>
+<p align="left" style="background:green">
 <a href="https://www.linkedin.com/in/igor-henrique-fernandes-de-araújo-058b90246" target="_blank">
-	<img src="https://img.shields.io/badge/-IgorCineraria-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-	<a/>
+	<img align="center" src="https://img.shields.io/badge/-IgorCineraria-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
+
